@@ -3,8 +3,8 @@
 
 
 // Init
-Physijs.scripts.worker = '/libs/physijs_worker.js';
-Physijs.scripts.ammo = '/libs/ammo.js';
+Physijs.scripts.worker = 'physijs_worker.js';
+Physijs.scripts.ammo = 'ammo.js';
 var Scene = new CScene();
 var Camera = new CCamera( 4, 8, 8, 0, 0, 0 );
 var Renderer = new THREE.WebGLRenderer( { antialias: true } );
