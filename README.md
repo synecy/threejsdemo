@@ -4,6 +4,7 @@ Three.js Demo
 3D Graphics demo using Three.js javascript library and Physijs plugin.
 Demo includes a platform with few boxes and player controllable ball.
 > W, A, S, D = Movement
+
 > Space = Jump
 
 
